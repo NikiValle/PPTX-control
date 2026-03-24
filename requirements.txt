@@ -1,0 +1,5 @@
+keyboard
+win32gui
+win32con
+win32api
+time
